@@ -1,0 +1,40 @@
+.place{
+    color: inherit;
+    font-family:inherit;
+    text-align: left;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(1fr, 2fr));
+    padding: 0;
+    margin: 0 auto;
+}
+
+@media(min-width:700px){
+    .place{
+        column-gap:12px;
+    }
+}
+
+@media(min-width:750px){
+    .place{
+        column-gap:28px;
+    }
+}
+
+@media(min-width:990px){
+    .place{
+        column-gap:32px;
+        padding-bottom: 80px;
+    }
+}
+
+@media(min-width:990px){
+    .place:nth-of-type(5){
+        padding-bottom: 92px;
+    }
+}
+
+@media(min-width:1150px){
+    .place{
+        column-gap:40px;
+    }
+}

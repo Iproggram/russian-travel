@@ -1,0 +1,17 @@
+.page__container{
+    width: 90%;
+    margin: 0 auto;
+    text-align: left;
+}
+
+@media(min-width: 750px){
+    .page__container {
+        width: 96%;
+    }
+}
+
+@media(min-width: 1190px){
+    .page__container {
+        width: 76%;
+    }
+}
