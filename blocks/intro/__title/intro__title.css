@@ -1,0 +1,32 @@
+.intro__title{
+    margin: 0;
+    padding: 64px 0 40px;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 35px;
+}
+
+@media(min-width: 470px){
+    .intro__title {
+        padding: 74px 0 40px;
+        font-size:40px;
+        line-height: 44px;
+    }
+}
+
+@media(min-width: 650px){
+    .intro__title {
+        padding: 88px 0 40px;
+        font-size: 54px;
+        line-height: 58px;
+    }
+}
+
+@media(min-width: 998px){
+    .intro__title {
+        padding: 92px 0 40px;
+        font-size: 54px;
+        line-height: 58px;
+    }
+}

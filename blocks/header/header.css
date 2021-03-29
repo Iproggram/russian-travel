@@ -1,0 +1,25 @@
+.header{
+    position: relative;
+    margin: 0;
+    color: #FFFFFF;
+    font-family: "inter",Arial, sans-serif;
+    min-width: 320px;
+    padding:16px 16px 0;
+    display:flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    box-sizing: border-box;
+}
+
+@media(min-width: 650px){
+    .header{
+        padding: 28px 24px 0;
+    }
+
+}
+
+@media(min-width: 900px){
+    .header{
+        padding: 28px 48px 0;
+    }
+}
