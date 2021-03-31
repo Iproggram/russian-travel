@@ -10,9 +10,9 @@
     }
 }
 
-@media(min-width: 950px){
+@media(min-width: 960px){
     .intro__container {
-        width: 90%;
+        width: 96%;
     }
 }
 
