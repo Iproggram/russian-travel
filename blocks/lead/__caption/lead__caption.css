@@ -6,6 +6,7 @@
     letter-spacing: 0.15em;
     padding:8px 0 0 16px;
     margin: 0;
+    -ms-flex-item-align: start;
     align-self: flex-start;
 }
 

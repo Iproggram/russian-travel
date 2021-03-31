@@ -1,0 +1,29 @@
+.cover{
+    position: relative;
+    font-family: "inter",Arial, sans-serif;
+    color: #FFFFFF;
+    background-image: url(../../images/cover/4background.png);
+    background-color: #000;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    z-index: 1;
+    
+}
+
+.cover::after{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: #2A2C2F;
+    opacity: 0.3;
+    z-index: -1;
+}
+
+.cover:hover::after{
+    opacity: 0.8;
+}

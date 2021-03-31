@@ -2,7 +2,9 @@
     width: 100%;
     padding: 32px 0 32px;
     margin: 0 auto;
+    -ms-grid-column: 1;
     grid-column: 1;
+    -ms-grid-row: 3;
     grid-row: 3;
 }
 
@@ -14,7 +16,10 @@
 
 @media(min-width:750px){
     .place__image{
+        -ms-grid-column: 1;
         grid-column: 1;
+        -ms-grid-row: 2;
+        -ms-grid-row-span: 2;
         grid-row: 2/4;
         padding: 0;
     }
