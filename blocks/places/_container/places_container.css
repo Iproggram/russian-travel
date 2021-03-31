@@ -1,22 +1,22 @@
-.places__container{
+.places_container{
     width: 100%;
     margin: 0 auto;
 }
 
 @media(min-width:700px){
-    .places__container{
+    .places_container{
        width: 94%;
     }
 }
 
 @media(min-width:900px){
-    .places__container{
+    .places_container{
         width: 90%;
     }
 }
 
 @media(min-width:1160px){
-    .places__container{
+    .places_container{
         width: 76%;
     }
 }
