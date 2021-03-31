@@ -8,6 +8,8 @@
     line-height: 20px;
     text-decoration: none;
     opacity: 1;
+    -webkit-transition: opacity 0.3s ease-in-out;
+    -o-transition: opacity 0.3s ease-in-out;
     transition: opacity 0.3s ease-in-out;
     
 }
@@ -17,7 +19,6 @@
 }
 
 .header__lang-link:hover{
-    text-decoration: underline;
     opacity: 0.5;
 }
 
