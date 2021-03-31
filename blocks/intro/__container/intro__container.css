@@ -10,6 +10,12 @@
     }
 }
 
+@media(min-width: 950px){
+    .intro__container {
+        width: 90%;
+    }
+}
+
 @media(min-width: 1190px){
     .intro__container {
         width: 76%;
