@@ -28,15 +28,11 @@
 @media(min-width: 998px){
     .lead__title {
         padding: 48px 152px 0;
-        font-size: 96px;
-        line-height: 100px;
     }
 }
 
 @media(min-width: 1180px){
     .lead__title {
         padding: 56px auto 0;
-        font-size: 96px;
-        line-height: 100px;
     }
 }

@@ -32,9 +32,6 @@
         column-gap:32px;
         padding-bottom: 80px;
     }
-}
-
-@media(min-width:990px){
     .place:last-of-type{
         padding-bottom:0;
     }
