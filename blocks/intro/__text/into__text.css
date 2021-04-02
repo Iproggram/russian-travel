@@ -5,6 +5,23 @@
     font-weight: normal;
     font-size: 16px;
     line-height: 163%;
-    max-width: 690px;
     text-align: start;
+}
+
+@media(min-width: 830px){
+    .intro__text {
+        width: 760px;
+    }
+}
+
+@media(min-width: 960px){
+    .intro__text {
+        width: 720px;
+    }
+}
+
+@media(min-width: 1024px){
+    .intro__text {
+        width: 690px;
+    }
 }

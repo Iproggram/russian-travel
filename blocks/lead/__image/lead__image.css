@@ -1,19 +1,20 @@
 .lead__image{
-    width: 320px;
-    -webkit-box-sizing: border-box;
-    box-sizing: border-box;
+    width:calc(100% + 32px);
+    margin: 0 -16px 0;
     -ms-flex-line-pack: center;
-    align-content: center;
+        align-content: center;
 }
 
-@media(min-width: 998px){
+@media(min-width: 768px){
     .lead__image {
-        padding:0 48px 0;
+        width: calc(100% + 48px);
+        margin: 0 -24px 0;
     }
 }
 
-@media(min-width:1100px){
+@media(min-width: 1024px){
     .lead__image {
-        padding:0 148px 0;
+        margin: 0;
+        width: 100%;
     }
 }

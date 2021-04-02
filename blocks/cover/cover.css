@@ -9,7 +9,6 @@
     background-repeat: no-repeat;
     text-align: center;
     z-index: 1;
-    
 }
 
 .cover::after{
@@ -26,4 +25,10 @@
 
 .cover:hover::after{
     opacity: 0.8;
+}
+
+@media(min-width:1280px){
+    .cover{
+        margin: 0 48px 0;
+    }
 }
