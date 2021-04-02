@@ -1,4 +1,4 @@
-.intro__list{
+.intro__list {
     padding: 34px 0 0;
     margin: 0;
     font-style: normal;
@@ -8,7 +8,7 @@
     list-style-type: none;
 }
 
-@media(min-width: 470px){
+@media (min-width: 470px) {
     .intro__list {
         padding-top: 33px;
     }

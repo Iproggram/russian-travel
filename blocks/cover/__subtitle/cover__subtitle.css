@@ -1,4 +1,4 @@
-.cover__subtitle{
+.cover__subtitle {
     font-style: normal;
     font-weight: normal;
     font-size: 14px;
@@ -7,38 +7,38 @@
     margin: 0;
 }
 
-@media(min-width:425px){
-    .cover__subtitle{
+@media (min-width: 425px) {
+    .cover__subtitle {
         font-size: 16px;
         line-height: 20px;
         padding: 16px 64px 64px;
     }
 }
 
-@media(min-width:630px){
-    .cover__subtitle{
+@media (min-width: 630px) {
+    .cover__subtitle {
         font-size: 16px;
         line-height: 20px;
         padding: 24px 112px 80px;
     }
 }
 
-@media(min-width:768px){
-    .cover__subtitle{
+@media (min-width: 768px) {
+    .cover__subtitle {
         font-size: 18px;
         line-height: 22px;
         padding: 32px 204px 115px;
     }
 }
 
-@media(min-width:965px){
-    .cover__subtitle{
+@media (min-width: 965px) {
+    .cover__subtitle {
         padding: 0 332px 195px;
     }
 }
 
-@media(min-width:1280px){
-    .cover__subtitle{
+@media (min-width: 1280px) {
+    .cover__subtitle {
         padding: 0 412px 245px;
     }
 }

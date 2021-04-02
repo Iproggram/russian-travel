@@ -1,15 +1,15 @@
-.place__website{
+.place__website {
     margin: 0;
-    color:inherit;
-    font-family:inherit;
+    color: inherit;
+    font-family: inherit;
     -ms-grid-column: 1;
     grid-column: 1;
     -ms-grid-row: 2;
     grid-row: 2;
 }
 
-@media(min-width:768px){
-    .place__website{
+@media (min-width: 768px) {
+    .place__website {
         -ms-grid-column: 2;
         grid-column: 2;
         -ms-grid-row: 1;
@@ -18,9 +18,9 @@
     }
 }
 
-@media(min-width:1024px){
-    .place__website{
+@media (min-width: 1024px) {
+    .place__website {
         -ms-flex-item-align: end;
-            align-self: flex-end;
+        align-self: flex-end;
     }
 }
