@@ -1,5 +1,5 @@
 .lead__image {
-    width: calc(100% + 32px);
+    width: 100%;
     margin: 0 -16px 0;
     -ms-flex-line-pack: center;
     align-content: center;
@@ -7,8 +7,7 @@
 
 @media (min-width: 768px) {
     .lead__image {
-        width: calc(100% + 48px);
-        margin: 0 -24px 0;
+        width: 100%;
     }
 }
 
