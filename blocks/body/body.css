@@ -9,7 +9,7 @@
     -moz-text-size-adjust: 100%;
 }
 
-@media (min-width: 1280px) {
+@media (min-width: 1260px) {
     .body {
         margin: 0 auto 0;
     }

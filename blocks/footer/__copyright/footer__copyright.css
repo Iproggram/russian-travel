@@ -7,7 +7,7 @@
     padding: 0;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 758px) {
     .footer__copyright {
         -ms-flex-item-align: end;
         align-self: flex-end;

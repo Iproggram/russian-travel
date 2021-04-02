@@ -34,7 +34,7 @@
     }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 758px) {
     .photo-grid {
         grid-template-columns: repeat(auto-fit, 352px);
         gap: 16px 16px;
@@ -42,7 +42,7 @@
     }
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 1004px) {
     .photo-grid {
         grid-template-columns: repeat(auto-fit, 300px);
         gap: 14px 14px;
@@ -50,7 +50,7 @@
     }
 }
 
-@media (min-width: 1280px) {
+@media (min-width: 1260px) {
     .photo-grid {
         grid-template-columns: repeat(auto-fit, 284px);
         gap: 16px;

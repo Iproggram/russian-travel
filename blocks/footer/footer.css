@@ -12,7 +12,7 @@
     padding-bottom: 24px;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 758px) {
     .footer {
         -webkit-box-orient: horizontal;
         -webkit-box-direction: normal;

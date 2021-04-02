@@ -39,13 +39,13 @@
     }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 758px) {
     .body_container_general {
         padding: 0 24px 0;
     }
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 1004px) {
     .body_container_general {
         padding: 0 48px 0;
     }

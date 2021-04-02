@@ -18,7 +18,7 @@
     grid-row: 5;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 758px) {
     .place__paragraph {
         -ms-grid-column: 2;
         grid-column: 2;
@@ -35,7 +35,7 @@
     }
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 1004px) {
     .place__paragraph {
         font-size: 18px;
     }
@@ -44,13 +44,13 @@
     }
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 1004px) {
     .place__paragraph {
         margin-bottom: 26px;
     }
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 1004px) {
     .place__title {
         font-size: 72px;
         line-height: 76px;

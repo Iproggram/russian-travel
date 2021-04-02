@@ -12,7 +12,7 @@
     margin: 0;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 758px) {
     .menu {
         -webkit-box-orient: horizontal;
         -webkit-box-direction: normal;
@@ -22,7 +22,7 @@
     }
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 1004px) {
     .menu {
         padding-top: 92px;
     }

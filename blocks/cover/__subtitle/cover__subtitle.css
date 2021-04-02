@@ -23,7 +23,7 @@
     }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 758px) {
     .cover__subtitle {
         font-size: 18px;
         line-height: 22px;
@@ -37,7 +37,7 @@
     }
 }
 
-@media (min-width: 1280px) {
+@media (min-width: 1260px) {
     .cover__subtitle {
         padding: 0 412px 245px;
     }

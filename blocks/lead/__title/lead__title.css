@@ -21,20 +21,20 @@
     }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 758px) {
     .lead__title {
         font-size: 96px;
         line-height: 100px;
     }
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 1004px) {
     .lead__title {
         padding: 48px calc(152px - 48px) 0;
     }
 }
 
-@media (min-width: 1280px) {
+@media (min-width: 1260px) {
     .lead__title {
         padding: 56px calc(280px - 96px) 0;
     }

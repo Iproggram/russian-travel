@@ -33,7 +33,7 @@
     }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 758px) {
     .body_container_places {
         padding: 0 24px 0;
     }
@@ -69,7 +69,7 @@
     }
 }
 
-@media (min-width: 1280px) {
+@media (min-width: 1260px) {
     .body_container_places {
         padding: 0 148px 0;
     }
