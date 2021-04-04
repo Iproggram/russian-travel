@@ -20,6 +20,7 @@
         line-height: 46px;
         text-align: left;
         padding-bottom: 48px;
+        padding-right: 0;
         align-self: flex-end;
         width: 340px;
     }

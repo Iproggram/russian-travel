@@ -11,5 +11,6 @@
     .footer__copyright {
         -ms-flex-item-align: end;
         align-self: flex-end;
+        line-height: 16px;
     }
 }

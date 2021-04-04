@@ -1,8 +1,8 @@
 .header_container_wrapper {
         margin: 0;
-        padding: 0 16px 0;
+        padding: 16px 16px 48px;
     }
-    
+    /*
     @media (min-width: 430px) {
         .header_container_wrapper {
             padding: 0 24px 0;
@@ -32,21 +32,21 @@
             padding: 0 48px 0;
         }
     }
-    
+   
     @media (min-width: 730px) {
         .header_container_wrapper {
             padding: 0 44px 0;
         }
     }
-    
+    */
     @media (min-width: 758px) {
         .header_container_wrapper {
-            padding: 0 24px 0;
+            padding: 28px 24px 0;
         }
     }
     
     @media (min-width: 1004px) {
         .header_container_wrapper {
-            padding: 0 48px 0;
+            padding: 28px 48px 0;
         }
     }

@@ -11,3 +11,21 @@
     text-transform: uppercase;
     text-align: start;
 }
+
+@media (min-width: 1024px) {
+    .lead__caption {
+        padding-left: 48px;
+    }
+}
+
+@media (min-width: 1124px) {
+    .lead__caption {
+        padding-left: 78px;
+    }
+}
+
+@media (min-width: 1260px) {
+    .lead__caption {
+        padding-left: 148px;
+    }
+}

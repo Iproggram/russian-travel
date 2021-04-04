@@ -1,5 +1,7 @@
 .place__website {
     margin: 0;
+    padding-top: 32px;
+    padding-bottom: 32px;
     color: inherit;
     font-family: inherit;
     -ms-grid-column: 1;
@@ -15,6 +17,8 @@
         -ms-grid-row: 1;
         grid-row: 1;
         padding-bottom: 48px;
+        padding-left: 0;
+        padding-right: 0;
     }
 }
 

@@ -1,20 +1,4 @@
 .places {
     color: #ffffff;
     font-family: "inter", Arial, sans-serif;
-    padding-top: 64px;
-    padding-bottom: 66px;
-}
-
-@media (min-width: 758px) {
-    .places {
-        padding-top: 88px;
-        padding-bottom: calc(90px - 25px);
-    }
-}
-
-@media (min-width: 1004px) {
-    .places {
-        padding-top: 0;
-        padding-bottom: 92px;
-    }
 }

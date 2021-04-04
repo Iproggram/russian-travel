@@ -3,7 +3,6 @@
     font-weight: 900;
     font-size: 40px;
     line-height: 44px;
-    padding-top: 48px;
     margin: 0;
 }
 
@@ -30,12 +29,12 @@
 
 @media (min-width: 1004px) {
     .lead__title {
-        padding: 48px calc(152px - 48px) 0;
+        padding: 48px 152px 0;
     }
 }
 
 @media (min-width: 1260px) {
     .lead__title {
-        padding: 56px calc(280px - 96px) 0;
+        padding: 56px 280px 0;
     }
 }

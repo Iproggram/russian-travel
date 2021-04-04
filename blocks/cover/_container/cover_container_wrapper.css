@@ -1,0 +1,15 @@
+.cover_container_wrapper{
+    margin-top: 66px;   
+}
+
+@media (min-width: 758px) {
+    .cover_container_wrapper {
+        margin-top: 90px;
+    }
+}
+
+@media (min-width: 1004px) {
+    .cover_container_wrapper {
+        margin-top: 92px;
+    }
+}

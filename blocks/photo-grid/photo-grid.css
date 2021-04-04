@@ -1,6 +1,5 @@
 .photo-grid {
     margin: 0;
-    padding-top: 64px;
     display: -ms-grid;
     display: grid;
     grid-template-columns: repeat(auto-fit, 288px);
@@ -20,7 +19,6 @@
 @media (min-width: 600px) {
     .photo-grid {
         grid-template-columns: repeat(2, 288px);
-        gap: 6px 6px;
         padding-top: 88px;
     }
 }
@@ -47,7 +45,7 @@
 
 @media (min-width: 1004px) {
     .photo-grid {
-        grid-template-columns: repeat(auto-fit, 300px);
+        grid-template-columns: repeat(3, 1fr);
         gap: 14px 14px;
         padding: 92px 0;
     }
@@ -55,7 +53,7 @@
 
 @media (min-width: 1260px) {
     .photo-grid {
-        grid-template-columns: repeat(auto-fit, 284px);
+        grid-template-columns: repeat(4, 1fr);
         gap: 16px;
     }
 }

@@ -11,4 +11,4 @@
 6. спец-символы
 7. работа с figma
 
-* [ссылка на сайт проекта](https://iproggram.github.io/russian-travel/)
+[ссылка на сайт проекта](https://iproggram.github.io/russian-travel/ "Путешествия по России")
