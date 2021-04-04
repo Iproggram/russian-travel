@@ -1,0 +1,21 @@
+.place_container_paragraph {
+    padding: 0 16px 0;
+}
+
+@media (min-width: 758px) {
+    .place_container_paragraph {
+        padding: 0 24px 0;
+    }
+}
+
+@media (min-width: 1004px) {
+    .place_container_paragraph {
+        padding: 0 48px 0;
+    }
+}
+
+@media (min-width: 1260px) {
+    .place_container_paragraph {
+        padding: 0 148px 0;
+    }
+}

@@ -1,0 +1,15 @@
+.lead_container_subtitle {
+    padding: 0 16px 0;
+}
+
+@media (min-width: 758px) {
+    .lead_container_subtitle {
+        padding: 48px 24px 0;
+    }
+}
+
+@media (min-width: 1004px) {
+    .lead_container_subtitle {
+        padding: 0;
+    }
+}
