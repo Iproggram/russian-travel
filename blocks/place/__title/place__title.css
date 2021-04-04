@@ -33,3 +33,9 @@
         width: 460px;
     }
 }
+
+@media (min-width: 1260px) {
+    .place__title {
+        padding-left: 148px;
+    }
+}

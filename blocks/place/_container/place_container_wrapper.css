@@ -1,6 +1,6 @@
 .place_container_wrapper {
-        padding: 0 16px 0;
-    }
+    padding: 0 16px 0;
+}
 
 @media (min-width: 758px) {
     .place_container_wrapper {
@@ -14,7 +14,7 @@
     }
 }
 
-@media (min-width: 1280px) {
+@media (min-width: 1260px) {
     .place_container_wrapper {
         padding: 0 148px 0;
     }

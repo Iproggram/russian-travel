@@ -1,16 +1,16 @@
 .photo-grid_container_wrapper {
-        margin: 0;
-        padding: 64px 16px 64px;
-    }
+    margin: 0;
+    padding: 64px 16px 64px;
+}
 
-    @media (min-width: 758px) {
-        .photo-grid_container_wrapper {
-            padding: 88px 24px 88px;
-        }
+@media (min-width: 758px) {
+    .photo-grid_container_wrapper {
+        padding: 88px 24px 88px;
     }
-    
-    @media (min-width: 1004px) {
-        .photo-grid_container_wrapper {
-            padding: 92px 48px 92px;
-        }
+}
+
+@media (min-width: 1004px) {
+    .photo-grid_container_wrapper {
+        padding: 92px 48px 92px;
     }
+}
