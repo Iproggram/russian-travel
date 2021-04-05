@@ -4,7 +4,8 @@
     text-align: left;
     display: -ms-grid;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(1fr, 2fr));
+    grid-template-columns: repeat(auto-fit, 1fr);
+    grid-template-rows: repeat(3, minmax(min-content, max-content));
     padding-top: 50px;
 }
 
